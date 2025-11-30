@@ -38,6 +38,8 @@ The CPU consists of three main functional units:
 
 ### 1.3 The Instruction Cycle
 
+![Instruction Cycle](https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_1024,h_444/https://chipmunklogic.com/wp-content/uploads/2023/04/single-cycle-riscv-cpu-fsm-1024x444.jpg)
+
 Every instruction goes through a fundamental cycle:
 
 1. **Fetch**: Retrieve the instruction from memory using the Program Counter (PC)
