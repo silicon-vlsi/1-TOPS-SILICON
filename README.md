@@ -1,5 +1,6 @@
-# 1-TOPS-SILICON
-Portal for the 1-TOPS team
+# Introduction to IC Design
+
+Check these [Slides](https://www.dropbox.com/scl/fi/ptqzuqsiie5ny5yupyhhw/2025-1130-Intro-IC-Design.pdf?rlkey=47b2c9564dapajuhyvie65v6b&dl=0)
 
 # Introduction to Computer Architecture Using RISC-V
 
@@ -144,11 +145,11 @@ RV32I provides **32 general-purpose registers**, each 32 bits wide, named x0 thr
 
 | Register | ABI Name | Description | Saved By |
 |----------|----------|-------------|----------|
-| x0 | zero | Hardwired zero | â€” |
+| x0 | zero | Hardwired zero | -- |
 | x1 | ra | Return address | Caller |
 | x2 | sp | Stack pointer | Callee |
-| x3 | gp | Global pointer | â€” |
-| x4 | tp | Thread pointer | â€” |
+| x3 | gp | Global pointer | -- |
+| x4 | tp | Thread pointer | -- |
 | x5-x7 | t0-t2 | Temporaries | Caller |
 | x8 | s0/fp | Saved register / Frame pointer | Callee |
 | x9 | s1 | Saved register | Callee |
@@ -392,7 +393,7 @@ Modern computers employ a **memory hierarchy** to balance speed, capacity, and c
 | 3 | L2 Cache | 256 KB - 1 MB | 3-10 ns |
 | 4 | L3 Cache | 4-32 MB | 10-20 ns |
 | 5 | Main Memory (RAM) | 4-64 GB | 50-100 ns |
-| 6 | Secondary Storage (SSD/HDD) | 256 GB - 8 TB | 10-10000 Âµs |
+| 6 | Secondary Storage (SSD/HDD) | 256 GB - 8 TB | 10-10000 us |
 
 ### 8.2 Cache Memory
 
@@ -456,11 +457,12 @@ Understanding these concepts provides the foundation for advanced topics includi
 
 1. Patterson, D. A., & Hennessy, J. L. *Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition*. Morgan Kaufmann.
 
-2. Waterman, A., & AsanoviÄ‡, K. (Eds.). *The RISC-V Instruction Set Manual*. RISC-V Foundation. Available at: https://riscv.org/
+2. Waterman, A., & Asanovic K. (Eds.). *The RISC-V Instruction Set Manual*. RISC-V Foundation. Available at: https://riscv.org/
 
 3. Harris, S., & Harris, D. *Digital Design and Computer Architecture: RISC-V Edition*. Morgan Kaufmann.
+4. Saroj Rout, Chandra Shekhar, "The Rise and Popularity of RISC-V". TechRxiv. July 17, 2024 [Link to Publication](https://doi.org/10.36227/techrxiv.172123425.58356523/v1)
 
-4. Sarangi, S. R. *Computer Organisation and Architecture*. IIT Delhi. Available at: https://www.cse.iitd.ac.in/~srsarangi/archbook/
+5. Sarangi, S. R. *Computer Organisation and Architecture*. IIT Delhi. Available at: https://www.cse.iitd.ac.in/~srsarangi/archbook/
 
 ---
 
