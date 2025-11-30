@@ -50,6 +50,10 @@ Every instruction goes through a fundamental cycle:
 
 ---
 
+### Memory Heirarchy
+
+![Memory Heirarchy](https://pplx-res.cloudinary.com/image/upload/v1762943442/search_images/88debeb1410d00645510f9019dd110f29baa8601.jpg)
+
 ## 2. RISC vs. CISC Architectures
 
 Processor instruction set architectures (ISAs) fall into two main categories:
