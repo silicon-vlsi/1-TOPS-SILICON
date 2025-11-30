@@ -9,6 +9,8 @@ Computer architecture is the conceptual design and fundamental operational struc
 
 ### 1.1 The Von Neumann Architecture
 
+![Von Neumann Architecture](http://computerscience.gcse.guru/wp-content/uploads/2016/04/Von-Neumann-Architecture-Diagram.jpg)
+
 Most modern computers follow the **Von Neumann architecture**, proposed by mathematician John von Neumann in 1945. This architecture is characterized by:
 
 - **Stored-program concept**: Both instructions and data reside in the same memory space
