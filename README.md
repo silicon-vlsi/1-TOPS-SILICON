@@ -455,15 +455,12 @@ Understanding these concepts provides the foundation for advanced topics includi
 
 ## References and Further Reading
 
-1. Patterson, D. A., & Hennessy, J. L. *Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition*. Morgan Kaufmann.
+1. Harris, S.,  Harris, D. *Digital Design and Computer Architecture: RISC-V Edition*. Morgan Kaufmann. [PDF](https://www.dropbox.com/scl/fi/67d1r2k6zh6yhpn4dol5o/Harris-Harris-DigitalDesignAndComputerArchitecture-MK-2ed-2012.pdf?rlkey=6azp4fylvpeykezhg6wm38hvk&dl=0)
+2. Saroj Rout, Chandra Shekhar, "The Rise and Popularity of RISC-V". TechRxiv. July 17, 2024 [Link to Publication](https://doi.org/10.36227/techrxiv.172123425.58356523/v1)
+3. Patterson, D. A., & Hennessy, J. L. *Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition*. Morgan Kaufmann.
 
-2. Waterman, A., & Asanovic K. (Eds.). *The RISC-V Instruction Set Manual*. RISC-V Foundation. Available at: https://riscv.org/
-
-3. Harris, S., & Harris, D. *Digital Design and Computer Architecture: RISC-V Edition*. Morgan Kaufmann.
-4. Saroj Rout, Chandra Shekhar, "The Rise and Popularity of RISC-V". TechRxiv. July 17, 2024 [Link to Publication](https://doi.org/10.36227/techrxiv.172123425.58356523/v1)
-
-5. Sarangi, S. R. *Computer Organisation and Architecture*. IIT Delhi. Available at: https://www.cse.iitd.ac.in/~srsarangi/archbook/
+4. Waterman, A., & Asanovic K. (Eds.). *The RISC-V Instruction Set Manual*. RISC-V Foundation. Available at: https://riscv.org/
 
 ---
 
-*Tutorial prepared for EE undergraduate curriculum â€” Computer Architecture Module*
+*Tutorial prepared for EE undergraduate to understand Computer Architecture Module*
