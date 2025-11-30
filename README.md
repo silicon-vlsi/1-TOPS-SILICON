@@ -50,9 +50,6 @@ Every instruction goes through a fundamental cycle:
 
 ---
 
-### Memory Heirarchy
-
-![Memory Heirarchy](https://pplx-res.cloudinary.com/image/upload/v1762943442/search_images/88debeb1410d00645510f9019dd110f29baa8601.jpg)
 
 ## 2. RISC vs. CISC Architectures
 
@@ -382,6 +379,9 @@ addi t0, t0, 0x678    # t0 = 0x12345678
 ## 8. Memory Hierarchy
 
 Modern computers employ a **memory hierarchy** to balance speed, capacity, and cost:
+
+
+![Memory Heirarchy](https://pplx-res.cloudinary.com/image/upload/v1762943442/search_images/88debeb1410d00645510f9019dd110f29baa8601.jpg)
 
 ### 8.1 The Memory Pyramid
 
