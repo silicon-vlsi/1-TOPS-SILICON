@@ -160,6 +160,9 @@ RV32I provides **32 general-purpose registers**, each 32 bits wide, named x0 thr
 | x18-x27 | s2-s11 | Saved registers | Callee |
 | x28-x31 | t3-t6 | Temporaries | Caller |
 
+
+![Instr Reg](https://pplx-res.cloudinary.com/image/upload/v1763408490/search_images/ffc77270a516cd6411768b4c3c253fb77aa59a4b.jpg)
+
 ### 4.2 Special Registers
 
 - **Program Counter (PC)**: Holds the address of the current instruction
