@@ -1,3 +1,10 @@
+
+# Resources
+
+**LITERATURE**
+1.  Harris, S.,  Harris, D. *Digital Design and Computer Architecture: RISC-V Edition*. Morgan Kaufmann.
+2.  Weste, Neil, and David Harris. *CMOS VLSI Design: A Circuits and Systems Perspective*. 4th ed. Pearson Education, 2011.
+
 # Introduction to IC Design
 
 Check these [Slides](https://www.dropbox.com/scl/fi/ptqzuqsiie5ny5yupyhhw/2025-1130-Intro-IC-Design.pdf?rlkey=47b2c9564dapajuhyvie65v6b&dl=0)
@@ -455,7 +462,7 @@ Understanding these concepts provides the foundation for advanced topics includi
 
 ## References and Further Reading
 
-1. Harris, S.,  Harris, D. *Digital Design and Computer Architecture: RISC-V Edition*. Morgan Kaufmann. [PDF](https://www.dropbox.com/scl/fi/67d1r2k6zh6yhpn4dol5o/Harris-Harris-DigitalDesignAndComputerArchitecture-MK-2ed-2012.pdf?rlkey=6azp4fylvpeykezhg6wm38hvk&dl=0)
+1. Harris, S.,  Harris, D. *Digital Design and Computer Architecture: RISC-V Edition*. Morgan Kaufmann.
 2. Saroj Rout, Chandra Shekhar, "The Rise and Popularity of RISC-V". TechRxiv. July 17, 2024 [Link to Publication](https://doi.org/10.36227/techrxiv.172123425.58356523/v1)
 3. Patterson, D. A., & Hennessy, J. L. *Computer Organization and Design: The Hardware/Software Interface, RISC-V Edition*. Morgan Kaufmann.
 
