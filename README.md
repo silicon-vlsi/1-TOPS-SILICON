@@ -11,6 +11,7 @@
   
 **PULP PLATFORM FROM ETH ZURICH**
 - [PULP Platform Project Page](https://pulp-platform.org/)
+- [Pulpino GitHub](https://github.com/pulp-platform/pulpino)
 - Schiavone, Pasquale Davide, *Design of energy-efficient RISC-V-based edge-computing devices*, Ph.D. Thesis, ETH Zurich, 2020 [[PDF](https://drive.google.com/file/d/1bNLrQuzwPOcDzOMWKDLLMqClrldPHoIk/view?usp=sharing)]
 
 
