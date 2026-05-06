@@ -18,7 +18,8 @@
 - [Pulpino GitHub](https://github.com/pulp-platform/pulpino)
 - Schiavone, Pasquale Davide, *Design of energy-efficient RISC-V-based edge-computing devices*, Ph.D. Thesis, ETH Zurich, 2020 [[PDF](https://drive.google.com/file/d/1bNLrQuzwPOcDzOMWKDLLMqClrldPHoIk/view?usp=sharing)]
 
-
+**OTHER PLATFORMS**
+- [Core-V-Wally](https://github.com/openhwgroup/cvw): A RISC-V platfrom from Harris-Harris, Thompson and James Stine, based on their upcoming book [RISC-V SoC Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
 
 
 * * *
