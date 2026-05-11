@@ -3,6 +3,9 @@
 
 **LITERATURE**
 1.  [**[HarrisHarris]**], *Digital Design and Computer Architecture: RISC-V Edition*. Morgan Kaufmann.
+   - [Companion Site](https://pages.hmc.edu/harris/ddca/ddcarv.html) : Great set of resrouces including Videos for all sections in the book. Also link two courses in edx.org:
+     - [HarveyMuddX: Digital Design](https://www.edx.org/learn/design/harvey-mudd-college-digital-design)
+     - [HarveyMuddX: Computer Architecture](https://www.edx.org/learn/computer-architecture/harvey-mudd-college-computer-architecture)
 2.  [**[WesteN]**], and David Harris. *CMOS VLSI Design: A Circuits and Systems Perspective*. 4th ed. Pearson Education, 2011.
 
 **INTERNAL DOCS**
