@@ -6,6 +6,9 @@
    - [Companion Site](https://pages.hmc.edu/harris/ddca/ddcarv.html) : Great set of resrouces including Videos for all sections in the book. Also link two courses in edx.org:
      - [HarveyMuddX: Digital Design](https://www.edx.org/learn/design/harvey-mudd-college-digital-design)
      - [HarveyMuddX: Computer Architecture](https://www.edx.org/learn/computer-architecture/harvey-mudd-college-computer-architecture)
+- [**[HarrisStine]**], *RISC-V System-on-Chip Design*, Morgan Kaufmann (To be launced in June 2026)
+  - [E154: System-on-Chip Design](https://pages.hmc.edu/harris/class/e154/): Course Page at Harvey Mudd College with lots of good resources.
+  - [Core-V-Wally](https://github.com/openhwgroup/cvw): A RISC-V platfrom from Harris-Harris, Thompson and James Stine, based on their upcoming book [RISC-V SoC Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
 - [**[WesteN]**], and David Harris. *CMOS VLSI Design: A Circuits and Systems Perspective*. 4th ed. Pearson Education, 2011.
 
 **INTERNAL DOCS**
@@ -21,9 +24,6 @@
 - [Pulpino GitHub](https://github.com/pulp-platform/pulpino)
 - Schiavone, Pasquale Davide, *Design of energy-efficient RISC-V-based edge-computing devices*, Ph.D. Thesis, ETH Zurich, 2020 [[PDF](https://drive.google.com/file/d/1bNLrQuzwPOcDzOMWKDLLMqClrldPHoIk/view?usp=sharing)]
 
-**OTHER PLATFORMS**
-- [Core-V-Wally](https://github.com/openhwgroup/cvw): A RISC-V platfrom from Harris-Harris, Thompson and James Stine, based on their upcoming book [RISC-V SoC Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
-
 
 * * *
 
@@ -35,7 +35,7 @@
 [PalnitkarS]:     https://www.box.com/scl/fi/8neiqcma4l2im6v5eu9wu/PalnitkarSamir-VerilogHDL-2ndEd-2003.pdf?rlkey=wef5hist6aq0tapdu9wmajihk&dl=0
 [MishraK]:        https://www.box.com/scl/fi/jl3hl4lbza1917cr86geu/MishraKishore-AdvancedChipDesign-Verilog.pdf?rlkey=r8nsin7tjyk022nrv9jxuxvng&dl=0
 [HarrisHarris]:   https://www.box.com/scl/fi/67d1r2k6zh6yhpn4dol5o/Harris-Harris-DigitalDesignAndComputerArchitecture-MK-2ed-2012.pdf?rlkey=6azp4fylvpeykezhg6wm38hvk&dl=0
-
+[HarrisStine]:    https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989
 [HodgesDA]:       https://www.box.com/scl/fi/43orxdtdm6u4u5mq68mc2/HodgesJackson-DesignAndAnalysisOfDigitalIC-3Ed-McGraw-2005.pdf?rlkey=1awl7pw48611qd8cnru6az7x5&dl=0
 [KangS]:          https://www.box.com/scl/fi/qv87mhnbzkntthl3atjqh/Kang-CMOS-DigitalIC-4thIE-McGrawHill-2015.pdf?rlkey=k5jkk4k1b5zmfkwldt1eseetl&dl=0
 [WesteN]:         https://www.box.com/scl/fi/8i5pftaeux4x2kzj51cpr/Weste-Harris-CMOS-VLSI-design-Pearson-4thEd-2011.pdf?rlkey=g1efbminflmhqze5o2pc9rnl8&dl=0
