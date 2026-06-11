@@ -1,7 +1,8 @@
 
 # Resources
 
-**LITERATURE**
+## Literature
+
 - [**[HarrisHarris]**], *Digital Design and Computer Architecture: RISC-V Edition*. Morgan Kaufmann.
    - [Companion Site](https://pages.hmc.edu/harris/ddca/ddcarv.html) : Great set of resrouces including Videos for all sections in the book. Also link two courses in edx.org:
      - [HarveyMuddX: Digital Design](https://www.edx.org/learn/design/harvey-mudd-college-digital-design)
@@ -11,15 +12,23 @@
   - [Core-V-Wally](https://github.com/openhwgroup/cvw): A RISC-V platfrom from Harris-Harris, Thompson and James Stine, based on their upcoming book [RISC-V SoC Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
 - [**[WesteN]**], and David Harris. *CMOS VLSI Design: A Circuits and Systems Perspective*. 4th ed. Pearson Education, 2011.
 
-**INTERNAL DOCS**
-- [Introduction to IC Design Flow](https://www.dropbox.com/scl/fi/ptqzuqsiie5ny5yupyhhw/2025-1130-Intro-IC-Design.pdf?rlkey=47b2c9564dapajuhyvie65v6b&dl=0)
-- [Introdcution to Computer Architecture Using RISC-V](docs/CompArchRISCVIntro.md) on 07 Mar 2026
+## HDL Resources
 
-**1-TOPS DOCS**
+**GUIDELINES**
+- Chapter-4 from **[HarrisStine]** is a great resource for Verilog/SV guidelines for hardware-friendly design.
+- [lowRISC Verilog Coding Style](https://github.com/lowRISC/style-guides/blob/master/VerilogCodingStyle.md)
+- [Freescale Verilog Coding Style for Reusability (PDF)](people.ece.cornell.edu/land/courses/ece5760/Verilog/FreescaleVerilog.pdf)
+
+**CLASSIC CLIFFORD PAPERS**
+- Clifford Cummings, _State Machine Coding Styles for Synthesis_, SNUG, 1998 ([PDF](https://github.com/silicon-vlsi/VLSI-2026/blob/main/media/CummingsSNUG1998SJ_FSM.pdf))
+- Clifford Cummings, _Nonblocking Assignments in Verilog Synthesis, Coding Styles That Kill!_, SNUG, 2000 ([PDF](https://github.com/silicon-vlsi/VLSI-2026/blob/main/media/CummingsSNUG2000SJ_NBA.pdf))
+- Clifford Cummings, et.al., _Asynchronous & Synchronous Reset Design Techniques - Part Deux_, SNUG, 2003 ([PDF](https://github.com/silicon-vlsi/VLSI-2026/blob/main/media/CummingsSNUG2003Boston_Resets.pdf))
+
+## 1-TOPS Docs
 - [DV Presentation](docs/2026-0307-Presentation-DV-1_TOPS.pdf): on 07 Mar 2026
 
   
-**PULP PLATFORM FROM ETH ZURICH**
+## Pulp Platform
 - [PULP Platform Project Page](https://pulp-platform.org/)
 - [Pulpino GitHub](https://github.com/pulp-platform/pulpino)
 - Schiavone, Pasquale Davide, *Design of energy-efficient RISC-V-based edge-computing devices*, Ph.D. Thesis, ETH Zurich, 2020 [[PDF](https://drive.google.com/file/d/1bNLrQuzwPOcDzOMWKDLLMqClrldPHoIk/view?usp=sharing)]
