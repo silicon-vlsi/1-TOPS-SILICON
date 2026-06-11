@@ -27,7 +27,11 @@
 ## 1-TOPS Docs
 - [DV Presentation](docs/2026-0307-Presentation-DV-1_TOPS.pdf): on 07 Mar 2026
 
-  
+# Reference Designs
+
+## Tiny RISC SoC running Linux
+- [KIANV uSoC runnign Linux](https://tinytapeout.com/chips/tt06/tt_um_kianV_rv32ima_uLinux_SoC) (Tinytapeout RISCV design,, post silicon work)
+  - [Companion GitHub page](https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core)
 ## Pulp Platform
 - [PULP Platform Project Page](https://pulp-platform.org/)
 - [Pulpino GitHub](https://github.com/pulp-platform/pulpino)
