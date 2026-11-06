@@ -3,6 +3,8 @@
 
 ## Literature
 
+**TEXT**
+
 - [**[HarrisHarris]**], *Digital Design and Computer Architecture: RISC-V Edition*. Morgan Kaufmann.
    - [Companion Site](https://pages.hmc.edu/harris/ddca/ddcarv.html) : Great set of resrouces including Videos for all sections in the book. Also link two courses in edx.org:
      - [HarveyMuddX: Digital Design](https://www.edx.org/learn/design/harvey-mudd-college-digital-design)
@@ -11,6 +13,11 @@
   - [E154: System-on-Chip Design](https://pages.hmc.edu/harris/class/e154/): Course Page at Harvey Mudd College with lots of good resources.
   - [Core-V-Wally](https://github.com/openhwgroup/cvw): A RISC-V platfrom from Harris-Harris, Thompson and James Stine, based on their upcoming book [RISC-V SoC Design](https://www.amazon.com/RISC-V-Microprocessor-System-Chip-Design/dp/0323994989)
 - [**[WesteN]**], and David Harris. *CMOS VLSI Design: A Circuits and Systems Perspective*. 4th ed. Pearson Education, 2011.
+
+**PAPERS**
+
+1. Gautschi, M., P. D. Schiavone, A. Traber, I. Loi, A. Pullini, D. Rossi, E. Flamand, F. K. Gürkaynak, and L. Benini. “Near-Threshold RISC-V Core With DSP Extensions for Scalable IoT Endpoint Devices.” IEEE Transactions on Very Large Scale Integration (VLSI) Systems 25, no. 10 (October 2017): 2700–2713. https://doi.org/10.1109/TVLSI.2017.2654506. [ [PVu](https://box.com/s/k938yc0t91bw6wf/2017-gautschi-RISCV-DSP-xtension-RISCY.pdf) ]
+2. Schiavone, P. Davide, F. Conti, D. Rossi, M. Gautschi, A. Pullini, E. Flamand, and L. Benini. “Slow and Steady Wins the Race? A Comparison of Ultra-Low-Power RISC-V Cores for Internet-of-Things Applications.” In 2017 27th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS), 1–8, 2017. https://doi.org/10.1109/PATMOS.2017.8106976. [ [PVu](https://box.com/s/cbnrjv64y11q94h/2017-schiavone2017-comparisonRISCVarchsForIOT.pdf) ]
 
 ## HDL Resources
 
@@ -29,17 +36,17 @@
 
 # Reference Designs
 
+- [Rocket Chip]: Free RISC-V core generator maintained by UC Berkeley. 
+- [SiFive]: company formed by the original inventors of RISC-V.
 ## Tiny RISC SoC running Linux
 - [KIANV uSoC runnign Linux](https://tinytapeout.com/chips/tt06/tt_um_kianV_rv32ima_uLinux_SoC) (Tinytapeout RISCV design,, post silicon work)
   - [Companion GitHub page](https://github.com/stevehoover/LF-Building-a-RISC-V-CPU-Core)
 ## Pulp Platform
-- [PULP Platform Project Page](https://pulp-platform.org/)
-- [Pulpino GitHub](https://github.com/pulp-platform/pulpino)
+- [PULP]: Joint effort between ETH Zurich and U. of Bologna for effcient architectures for Ultra Low Power application.
+- [PULPino]: Single-core microcontroller system using [RISCY] or zero-riscy.
 - Schiavone, Pasquale Davide, *Design of energy-efficient RISC-V-based edge-computing devices*, Ph.D. Thesis, ETH Zurich, 2020 [[PDF](https://drive.google.com/file/d/1bNLrQuzwPOcDzOMWKDLLMqClrldPHoIk/view?usp=sharing)]
 
-
 * * *
-
 
 [RoutS]:          https://mixignal-press.github.io/ebook-ice1/
 [ThomasRE]:       https://www.box.com/scl/fi/83ygnyynx2sfex1h7tdhg/Thomas-AnalysisDesignOfLinearCkts-Wiley-2023.pdf?rlkey=4xzk0an1z7r3fcj936o0enjg4&st=oio90ydk&dl=0
@@ -55,3 +62,11 @@
 [WesteMartin]:    https://www.box.com/scl/fi/fm6tyicvb72crje7r51ey/Weste-JohnsMartin-CMOSprocessing-Layout-Highlight-annotate.pdf?rlkey=wqcjq4fhb79qwxkiue2gihdx9&dl=0
 [JohnsMartin]:    https://www.box.com/scl/fi/7jp5q4e3kvalnlbui7p5m/JohnsMartinCarusone-AnalogICDesign-2ndEd-Wiley-2012.pdf?rlkey=exl7b2bmfgoiqyku6f0qeyk7a&dl=0
 [AllenHolberg]:   https://www.box.com/scl/fi/bxv3gagfq6p7t88runbx1/Allen-Holberg-CMOS-AnalogCircuitDesign-3rdEd-Oxford-2012.pdf?rlkey=jqjyleetec34oe6upvxu7lfox&dl=0
+[PULPino]:		https://github.com/pulp-platform/pulpino
+[PULP]:			https://pulp-platform.org/index.html
+[RISCY]:		http://ieeexplore.ieee.org/abstract/document/7864441/
+[Rocket Chip]:		https://github.com/freechipsproject/rocket-chip
+[SiFive]:		https://www.sifive.com
+[RISCV]:		https://www.riscv.org
+[OpenHW]:		https://github.com/openhwgroup/cv32e40p
+[SERV]:			https://github.com/olofk/serv
