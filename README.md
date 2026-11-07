@@ -4,6 +4,7 @@ This repo is the portal for the 1-TOPS project at Silicon University, Odisha.
 # Resources
 
 - [Project Neumann](https://github.com/silicon-vlsi/neumann): Official repo.
+- [Guidelines from 1-TOPS Team](docs/guidelines-1TOPS.md)
 
 ## Literature
 
