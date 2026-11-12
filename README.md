@@ -5,6 +5,7 @@ This repo is the portal for the 1-TOPS project at Silicon University, Odisha.
 
 - [Project Neumann](https://github.com/silicon-vlsi/neumann): Official repo.
 - [Guidelines from 1-TOPS Team](docs/guidelines-1TOPS.md)
+- [GNUcc toolchain tutorial](https://github.com/amitops2103/Zero_RISCY_toolchain): for the Zero RISCY design.
 
 ## Literature
 
