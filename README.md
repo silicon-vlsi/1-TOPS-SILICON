@@ -42,6 +42,7 @@ This repo is the portal for the 1-TOPS project at Silicon University, Odisha.
 
 # Reference Designs
 
+- [Harris-Stine Wally Core](https://github.com/openhwgroup/cvw)
 - [Rocket Chip]: Free RISC-V core generator maintained by UC Berkeley. 
 - [SiFive]: company formed by the original inventors of RISC-V.
 ## Tiny RISC SoC running Linux
