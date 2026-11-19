@@ -30,7 +30,7 @@ This repo is the portal for the 1-TOPS project at Silicon University, Odisha.
 **GUIDELINES**
 - Chapter-4 from **[HarrisStine]** is a great resource for Verilog/SV guidelines for hardware-friendly design.
 - [lowRISC Verilog Coding Style](https://github.com/lowRISC/style-guides/blob/master/VerilogCodingStyle.md)
-- [Freescale Verilog Coding Style for Reusability (PDF)](people.ece.cornell.edu/land/courses/ece5760/Verilog/FreescaleVerilog.pdf)
+- [Freescale Verilog Coding Style for Reusability (PDF)](https://people.ece.cornell.edu/land/courses/ece5760/Verilog/FreescaleVerilog.pdf)
 
 **CLASSIC CLIFFORD PAPERS**
 - Clifford Cummings, _State Machine Coding Styles for Synthesis_, SNUG, 1998 ([PDF](https://github.com/silicon-vlsi/VLSI-2026/blob/main/media/CummingsSNUG1998SJ_FSM.pdf))
